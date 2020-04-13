@@ -1,0 +1,7 @@
+Film #,substrate,substrate temp,In temp,N2 pressure,plasma power (W),growth time,In Composition Fraction
+38,Fused Silica Glass,400C,740C,1.00E-5,350,3hrs,0.63
+117,Sapphire,550C,740C,1.00E-5,250,1.1hrs,0.5
+120,Sapphire,550C,780C,1.00E-5,250,0.57hrs,0.5
+123,Sapphire,450C,760C,1.00E-5,250,3hrs,0.5
+143,Fused Silica Glass,450C,800C,1.00E-5,250,3hrs,0.63
+683,YSZ(111),450C,828C,1.00E-5,150,3hrs,0.5

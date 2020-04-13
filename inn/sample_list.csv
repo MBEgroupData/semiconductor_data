@@ -1,0 +1,13 @@
+S2,Band gap(eV),Reference Folder,Sample Folder
+0.8985,0.945,kurimoto_2004,as_grown
+0.0280,3.491,kurimoto_2004,500C
+0.5924,1.84,kurimoto_2004,450C
+0.5714,1.9,haddad_2002,365C
+0.7241,1.45,haddad_2002,425C
+0.9148,0.89,inushima_2001,W280
+0.9800,0.71,mbe_group,683
+0.5372,-0.792,mbe_group,143
+0.9556,0.7789,mbe_group,123
+0.9908,0.6799,mbe_group,120
+0.9906,0.6809,mbe_group,117
+0.5254,-0.824,mbe_group,38

@@ -1,0 +1,11 @@
+Film #,substrate,substrate temp,Ga temp,N2 pressure,plasma power (W),growth time,Ga Composition Fraction
+21,Fused Silica Glass,500,940,9.98E-6,350,3hr,0.537
+26,Fused Silica Glass,500,895,1.00E-5,350,3hr,0.598
+27,Fused Silica Glass,500,895,5.00E-6,250,3hr,0.528
+28,Fused Silica Glass,500,895,1.00E-5,450,3hr,0.603
+30,Fused Silica Glass,150,895,1.00E-5,450,3hr,0.61
+31,Fused Silica Glass,650,895,1.03E-5,450,3hr,0.64
+32,Fused Silica Glass,500,895,1.00E-5,500,3hr,0.54
+33,Fused Silica Glass,500,895,1.00E-5,400,3hr,0.54
+205,Fused Silica Glass,750,965,2.00E-5,250,3hr,0.5
+212,Fused Silica Glass,450/750,965,2.00E-5,250,3hr,0.5

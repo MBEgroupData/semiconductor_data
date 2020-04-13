@@ -1,0 +1,7 @@
+S2,Band gap(eV),Reference Folder,Sample Folder
+0.4066,0.198,dixit_2002,insb_film
+0.4689,0.167,dixit_2002,wafer
+0.1311,0.3223,senthilkumar_2005,473k
+0.5287,0.142,senthilkumar_2005,373k
+0.5123,0.148,senthilkumar_2005,303k
+0.9911,-0.07323,mti,bulk_InSb

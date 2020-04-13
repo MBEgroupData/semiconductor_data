@@ -1,0 +1,16 @@
+S2,Band gap(eV),Reference Folder,Sample Folder
+0.0009,1.658,tsu_1992,film_a
+0.1425,1.86,tsu_1992,film_c
+0.0165,1.678,sood_1992,film_a
+0.0394,1.715,sood_1992,film_b
+0.0886,1.877,sood_1992,film_c
+0.0321,1.8,sood_1992,film_d
+0.1571,1.56,sokolov_1991,film_a
+0.1259,1.712,sokolov_1991,film_b
+0.0485,1.72,prokes_1994,annealed
+0.1209,1.5,prokes_1994,asmade
+0.1289,1.51,lockwood_1995,3nm
+0.0678,1.4,lockwood_1995,49nm
+0.0797,1.42,fogal_2001,grown_sample
+0.1671,1.79,fogal_2001,pd-a-sample
+0.0000,1.14,fogal_2001,sd-a-sample
