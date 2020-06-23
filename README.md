@@ -1,9 +1,10 @@
+[![DOI](https://zenodo.org/badge/247144262.svg)](https://zenodo.org/badge/latestdoi/247144262)
+
 Data Extraction Repository for \
 Revisiting Semiconductor Band Gaps Through Structural Motifs: An Ising
 Model Perspective \
 R.A. Makin, K.R. York, R.J. Reeves and S.M. Durbin
 
-[![DOI](https://zenodo.org/badge/247144262.svg)](https://zenodo.org/badge/latestdoi/247144262)
 
 
 ## References
